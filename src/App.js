@@ -1,8 +1,14 @@
 import React from 'react';
-import HelloReact from './components/HelloReact';
+import Header from './components/Header';
+import Footer from './components/Footer';
 
 function App() {
-  return <HelloReact />;
+  return (
+    <div>
+    <Header></Header>
+    <Footer></Footer>
+  </div>
+  );
 }
 
 export default App;
