@@ -7,7 +7,7 @@ const projects = [
     title: "Sound Shelf",
     languages: "html, css, js, handlebars",
     packages: "express, dotenv, inquirer, sequelize, mysql, rater-js, bcrypt",
-    image: "/img/pocket-traders.png",
+    image: "/public/images/Sound Shelf.png",
     description:
       "This app allows you to rate your favorite songs, and share them with your friends",
     repo: "https://github.com/sco5am/music-rating-app",
@@ -37,14 +37,14 @@ const projects = [
   },
   {
     id: 3,
-    title: "KidStarter",
+    title: "KidStarter (work in progress)",
     languages: "react, jsx, css, js",
     packages: "jwt-decode, graphQL, apollo-server-express, mongoose, stripe, express, bcrypt, react-router-dom ",
     image: "/img/noheadphones.png",
     description:
       "This site is a concept that would allow kids (with adult supervision) to advertise and stream line their fundraisers.",
     repo: "https://github.com/sco5am/KidStarter",
-    live: "",
+    live: "https://frozen-mesa-16052.herokuapp.com/",
   },
   {
     id: 4,

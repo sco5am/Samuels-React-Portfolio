@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import Navigation from "./Navigation";
+import Nav from "./Nav";
 import About from "./About";
 import Contact from "./Contact";
 import Portfolio from "./Portfolio";
@@ -38,7 +38,7 @@ function Header() {
         </div>
       </nav>
       {/* Pass the state value and the setter as props to NavTabs */}
-      <Navigation
+      <Nav
         currentPage={currentPage}
         handlePageChange={handlePageChange}
       />
