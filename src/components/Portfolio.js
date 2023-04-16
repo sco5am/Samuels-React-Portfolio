@@ -7,7 +7,7 @@ const projects = [
     title: "Sound Shelf",
     languages: "html, css, js, handlebars",
     packages: "express, dotenv, inquirer, sequelize, mysql, rater-js, bcrypt",
-    image: "/public/images/Sound Shelf.png",
+    image: "/images/Sound Shelf.png",
     description:
       "This app allows you to rate your favorite songs, and share them with your friends",
     repo: "https://github.com/sco5am/music-rating-app",
@@ -18,7 +18,7 @@ const projects = [
     title: "Weather Dashboard",
     languages: "html, css, js",
     packages: "none",
-    image: "/img/techtopics.png",
+    image: "/images/WeatherDashboard.png",
     description:
       "A basic app that allows you to see the weather for a specific searched or saved city.",
     repo: "https://github.com/sco5am/Server-Side-API-Weather-Dashboard",
@@ -29,7 +29,7 @@ const projects = [
     title: "The Comic-Book",
     languages: "html, css, js",
     packages: "none",
-    image: "/img/quizam.png",
+    image: "/images/ComicBook.png",
     description:
       "The first team project i worked on, The Comic-Book allows users to share their favorite comic book characters, take daily quizes, and intigrates the Marvel API as well as the OMDB API.",
     repo: "https://github.com/sco5am/team5-project1",
@@ -51,7 +51,7 @@ const projects = [
     title: "Note Taker App",
     languages: "html, css, js",
     packages: "Express.js",
-    image: "",
+    image: "/images/NoteTaker.png",
     description:
       "A basic Note taking app that allows you to write, save, and delete notes.",
     repo: "https://github.com/sco5am/Note_Taker_App",
