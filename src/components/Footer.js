@@ -17,6 +17,13 @@ function Footer() {
           >
             LinkedIn
           </a>
+          <hr />
+          <a
+            href="https://github.com/sco5am?tab=repositories"
+            target="_blank" rel="noreferrer"
+          >
+            GitHub
+          </a>
         </p>
       </div>
     </footer>
