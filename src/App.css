@@ -19,7 +19,15 @@ body {
     margin-bottom: 2em;
     
   }
-  
+  .nav-item {
+    text-decoration: none;
+    padding: 5px 10px;
+    color: var(--secondary);
+    margin-right: 10px;
+    font-size: 1.4rem;
+}
+
+
   .navbar .navbar-brand > .navbar-item,
   .navbar .navbar-brand .navbar-link {
     display: inline-block;
@@ -32,8 +40,8 @@ body {
     margin-right: 30em;
   }
   
-  .my-pic {
-      clip-path: circle();
+  .my-picture {
+      clip-path: ellipse();
     width: 250px;
   }
   

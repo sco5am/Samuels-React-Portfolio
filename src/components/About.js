@@ -3,10 +3,10 @@ import React from "react";
 function About() {
   return (
     <div>
-      <p className="content is-medium"> Full Stack Web Developer</p>
+      <p className="content is-large"> Full Stack Web Developer</p>
       <hr />
       <img
-        className="my-pic"
+        className="my-picture"
         src={process.env.PUBLIC_URL + "/images/profile2.jpg"}
         alt="Samuel Clay Oaks"
       />

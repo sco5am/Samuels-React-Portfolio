@@ -1,7 +1,8 @@
 {
   "name": "samuels-react-portfolio",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "",
+  "private": true,
   "main": "index.js",
   "homepage": "https://sco5am.github.io/Samuels-React-Portfolio",
   "scripts": {

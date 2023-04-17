@@ -18,17 +18,17 @@ function Project(props) {
                 <div className="media">
                   <div className="media-left"></div>
                   <div className="media-content">
-                    <p className="title is-4" key={project.id}>
+                    <p className="title is-3" key={project.id}>
                       {project.title}
                     </p>
                   </div>
                 </div>
 
-                <div className="content has-text-left">
+                <div className="content has-text-center">
                   {project.description}
                   <br />
                   <br />
-                  <div className="content is-family-code">
+                  <div>
                     Languages: {project.languages}
                     <br />
                     NPM Packages: {project.packages}
