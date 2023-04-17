@@ -11,7 +11,7 @@ const projects = [
     description:
       "This app allows you to rate your favorite songs, and share them with your friends",
     repo: "https://github.com/sco5am/music-rating-app",
-    live: "/",
+    live: "https://guarded-earth-90351.herokuapp.com/",
   },
   {
     id: 1,

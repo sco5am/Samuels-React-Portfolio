@@ -7,11 +7,14 @@ This portfolio was created to share the projects ive created with the help of Th
 
 ## Installation
 
-This application can be run locally. Simply clone this repository, then run `npm i` on the command line, followed by `npm start`. The live version of this site can be viewed [Here](https://sco5am.github.io/Samuels-React-Portfolio/)
+This application can be run locally. Simply clone this repository, then run `npm i` on the command line, followed by `npm start`. 
 
 ## Usage
 
+The live version of this site can be viewed [Here](https://sco5am.github.io/Samuels-React-Portfolio/)
 
+Below is a screenshot of the landing page:
+![alt text](/public/images/screenshot.png)
 
 ## License
 
